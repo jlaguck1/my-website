@@ -1,0 +1,13 @@
+html, body {
+  font-family:Monaco;
+  background-color:#363636;
+  height:100%;
+}
+
+#buttons .uk-icon-button {
+  transition:transform .1s;
+}
+
+#buttons .uk-icon-button:hover {
+  transform:scale(1.2);
+}
