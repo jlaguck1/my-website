@@ -1,3 +1,3 @@
 # website
 
-A simple website meant for job applications. Subject to change.
+My simple website meant for job applications and future/potential employers. Subject to change.
